@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T04:04:09.356Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="XIg8XG4usIZ8YAIxK-he" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T08:09:20.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="n3OwxJ_HB4KD-t2CymQB" version="13.6.9" type="github">
   <diagram id="pQHpLrwt8nuiCKjMTXmI" name="Page-1">
     <mxGraphModel dx="1183" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -43,7 +43,7 @@
         <mxCell id="vrbKSLYq2elZXXa4CNdG-11" value="弹窗登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="220" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vrbKSLYq2elZXXa4CNdG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrbKSLYq2elZXXa4CNdG-16" target="vrbKSLYq2elZXXa4CNdG-18">
+        <mxCell id="vrbKSLYq2elZXXa4CNdG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrbKSLYq2elZXXa4CNdG-16" target="vrbKSLYq2elZXXa4CNdG-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrbKSLYq2elZXXa4CNdG-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vrbKSLYq2elZXXa4CNdG-12">
@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="200" y="360" />
-              <mxPoint x="200" y="540" />
+              <mxPoint x="200" y="620" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -71,10 +71,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vrbKSLYq2elZXXa4CNdG-18" value="随机分配奖励" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="440" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="vrbKSLYq2elZXXa4CNdG-19" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="280" y="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vrbKSLYq2elZXXa4CNdG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="vrbKSLYq2elZXXa4CNdG-24" target="vrbKSLYq2elZXXa4CNdG-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vrbKSLYq2elZXXa4CNdG-24" value="排除已抽中的&lt;br&gt;礼包码类奖品" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
