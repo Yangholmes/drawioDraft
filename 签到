@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T02:29:36.601Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="qtLLRcIQVI3-W2C7Cri9" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T08:40:20.271Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="loT-0IUw6nxUXetQ7xAp" version="13.6.9" type="github">
   <diagram id="uO8tsmmcydv1XXi1PS9C" name="Page-1">
-    <mxGraphModel dx="1183" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1420" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="360" y="40" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOSpodZv6MF_nerUSkxa-2" target="nOSpodZv6MF_nerUSkxa-3">
           <mxGeometry relative="1" as="geometry" />
@@ -21,7 +21,7 @@
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-21" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOSpodZv6MF_nerUSkxa-15">
           <mxGeometry x="-0.6909" y="1" relative="1" as="geometry">
-            <mxPoint x="41.67" y="1" as="offset" />
+            <mxPoint x="11" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOSpodZv6MF_nerUSkxa-3" target="nOSpodZv6MF_nerUSkxa-26">
@@ -29,11 +29,11 @@
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-34" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOSpodZv6MF_nerUSkxa-27">
           <mxGeometry x="-0.7208" relative="1" as="geometry">
-            <mxPoint y="29.17" as="offset" />
+            <mxPoint y="14.000000000000002" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-3" value="是否登录？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="280" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOSpodZv6MF_nerUSkxa-4" target="nOSpodZv6MF_nerUSkxa-8">
           <mxGeometry relative="1" as="geometry">
@@ -41,36 +41,36 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-4" value="弹窗登录" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="300" width="120" height="40" as="geometry" />
+          <mxGeometry x="520" y="260" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOSpodZv6MF_nerUSkxa-6" target="nOSpodZv6MF_nerUSkxa-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-6" value="签到成功" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="600" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOSpodZv6MF_nerUSkxa-7" target="nOSpodZv6MF_nerUSkxa-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-7" value="领取抽奖机会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="720" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="560" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-8" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="360" y="840" width="120" height="40" as="geometry" />
+          <mxGeometry x="360" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOSpodZv6MF_nerUSkxa-26" target="nOSpodZv6MF_nerUSkxa-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-32" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOSpodZv6MF_nerUSkxa-28">
           <mxGeometry x="-0.3042" relative="1" as="geometry">
-            <mxPoint y="12.5" as="offset" />
+            <mxPoint y="6" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOSpodZv6MF_nerUSkxa-26" target="nOSpodZv6MF_nerUSkxa-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="280" y="480" />
-              <mxPoint x="280" y="860" />
+              <mxPoint x="280" y="400" />
+              <mxPoint x="280" y="660" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,7 +80,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nOSpodZv6MF_nerUSkxa-26" value="是否已签过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="380" y="360" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
