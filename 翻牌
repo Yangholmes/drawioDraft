@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T02:29:40.655Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="rwmDovWYcCyNiKrpxaxn" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T02:54:06.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="Cu4X9NhtUMifT-LS0mJ8" version="13.6.9" type="github">
   <diagram id="H9e7FFyD-409DaeSD6zF" name="Page-1">
-    <mxGraphModel dx="1420" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="979" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="3vNo735AY1yUXJGDTqoY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-4" target="3vNo735AY1yUXJGDTqoY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3vNo735AY1yUXJGDTqoY-4" value="点击领取按钮" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3vNo735AY1yUXJGDTqoY-4" value="点击某张卡牌" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="120" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3vNo735AY1yUXJGDTqoY-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-9" target="3vNo735AY1yUXJGDTqoY-11">
@@ -46,35 +46,36 @@
         <mxCell id="3vNo735AY1yUXJGDTqoY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-16" target="3vNo735AY1yUXJGDTqoY-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3vNo735AY1yUXJGDTqoY-13" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3vNo735AY1yUXJGDTqoY-12">
+        <mxCell id="3vNo735AY1yUXJGDTqoY-13" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3vNo735AY1yUXJGDTqoY-12">
           <mxGeometry x="-0.79" y="-1" relative="1" as="geometry">
             <mxPoint x="1" y="16" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3vNo735AY1yUXJGDTqoY-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-16" target="3vNo735AY1yUXJGDTqoY-24">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="200" y="360" />
-              <mxPoint x="200" y="540" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-16" target="3vNo735AY1yUXJGDTqoY-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3vNo735AY1yUXJGDTqoY-15" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3vNo735AY1yUXJGDTqoY-14">
-          <mxGeometry x="-0.9022" y="1" relative="1" as="geometry">
+        <mxCell id="3vNo735AY1yUXJGDTqoY-28" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3vNo735AY1yUXJGDTqoY-26">
+          <mxGeometry x="-0.5312" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3vNo735AY1yUXJGDTqoY-16" value="是否符合条件？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3vNo735AY1yUXJGDTqoY-16" value="是否已翻过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3vNo735AY1yUXJGDTqoY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-23" target="3vNo735AY1yUXJGDTqoY-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3vNo735AY1yUXJGDTqoY-23" value="领取抽奖机会" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3vNo735AY1yUXJGDTqoY-23" value="随机分配一张卡牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3vNo735AY1yUXJGDTqoY-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
           <mxGeometry x="260" y="520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-25" target="3vNo735AY1yUXJGDTqoY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-25" value="返回卡牌内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="440" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
