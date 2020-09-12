@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-09-12T02:54:06.079Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="Cu4X9NhtUMifT-LS0mJ8" version="13.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-12T07:50:28.789Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4255.0 Safari/537.36 Edg/87.0.634.0" etag="n8I59wnHF03ZxZhlKoId" version="13.6.9" type="github">
   <diagram id="H9e7FFyD-409DaeSD6zF" name="Page-1">
-    <mxGraphModel dx="979" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1671" dy="944" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -62,20 +62,59 @@
         <mxCell id="3vNo735AY1yUXJGDTqoY-16" value="是否已翻过？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="320" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3vNo735AY1yUXJGDTqoY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-23" target="3vNo735AY1yUXJGDTqoY-24">
+        <mxCell id="3vNo735AY1yUXJGDTqoY-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-23" target="3vNo735AY1yUXJGDTqoY-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3vNo735AY1yUXJGDTqoY-23" value="随机分配一张卡牌" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="440" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3vNo735AY1yUXJGDTqoY-24" value="结束" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" vertex="1" parent="1">
-          <mxGeometry x="260" y="520" width="120" height="40" as="geometry" />
+          <mxGeometry x="260" y="800" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3vNo735AY1yUXJGDTqoY-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-25" target="3vNo735AY1yUXJGDTqoY-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3vNo735AY1yUXJGDTqoY-25" value="返回卡牌内容" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="440" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-29" target="3vNo735AY1yUXJGDTqoY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-39" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3vNo735AY1yUXJGDTqoY-34">
+          <mxGeometry x="-0.8167" relative="1" as="geometry">
+            <mxPoint y="16.39" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-29" target="3vNo735AY1yUXJGDTqoY-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="560" />
+              <mxPoint x="460" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-41" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3vNo735AY1yUXJGDTqoY-37">
+          <mxGeometry x="-0.7785" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-29" target="3vNo735AY1yUXJGDTqoY-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-29" value="是否出现相同&lt;br&gt;卡牌或抽奖券？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-30" target="3vNo735AY1yUXJGDTqoY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-30" value="返回卡牌和回合信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3vNo735AY1yUXJGDTqoY-33" target="3vNo735AY1yUXJGDTqoY-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3vNo735AY1yUXJGDTqoY-33" value="回合重置" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="640" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
